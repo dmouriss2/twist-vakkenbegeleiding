@@ -36,7 +36,7 @@ Tweede semester
 * Algoritmen en Datastructuren I
 	- Herman en Dieter
 * Programmeren II
-	- Bart en Nico????
+	- Bart en Nico
 * Scriptingtalen
 	- Bart en Dieter
 
@@ -45,17 +45,61 @@ Opmerkingen
 
 1. Ik wacht nog op een reactie van Steven Keuchel voor het begeleiden van computergebruik. Normaal moet hij één vak in de bachelor begeleiden, dus dit zou geen probleem mogen zijn.
 
-2. Het zou ideaal zijn om Nico in te zetten voor Programmeren II. Nico is gemaild om te vragen of hij dit ziet zitten. Indien ja dan kan Pieter zonder probleem Analyse II geven en gebruiken we Sarah en Benoit (in de weken waarop Sarah RAF moet geven) voor Programmeren.
+2. Aangezien Sarah al (quasi) voltijds intelligente systemen geeft en in sommige weken ook RAF zal geven, zou het kunnen dat Benoit sommige weken Programmeren overneemt van Sarah.
 
 3. Oplossingen niet verlengen Bert:
 	* Programmeren I: extra jobstudent
 	* Algoritmen en Datastructuren 2: Op het einde Gunnar de oefeningen en Nico alleen project
 	* Algoritemen en Datastructuren 1: Dieter neemt over van Bert
-	* Programmeren 2: zie puntje 2
+	* Programmeren 2: Nico
+
+Begeleidingstaken Wiskunde
+==========================
+
+Eerste semester
+---------------
+
+* Wiskunde IA
+	- Roy en Jean-Marie
+* Wiskunde IIA
+*	- Jean-Marie
+* Wiskunde I (chemie)
+	- Bart
+* Analyse II
+	- Pieter
+* Toegepaste wiskunde voor scheikundigen
+	- Roy
+* Data-analyse I: wiskundige principes
+	- Jean-Marie
+
+Tweede semester
+---------------
+
+* Wiskunde IB
+	- Roy en Jean-Marie
+* Wiskunde IIB
+	- Jean-Marie
+* Financiele wiskunde
+	- Roy
+* Analyse I
+	- Charlotte
+* Wiskunde II (chemie)
+	- Bart
+* Wetenschappelijk rekenen
+	- Niels
+* Numerieke analyse
+	- Niels
 
 Begeleidingstaken personen
 ==========================
-
+* Jean-Marie Dendoncker
+	- Wiskunde IA
+	- Wiskunde IB
+	- Wiskunde IIA
+	- Wiskunde IIB
+	- Data-analyse I: wiskundige principes
+* Pieter Goetschalckx
+	- Analyse II
 * Bart Mesuere
 	- Algoritmen en Datstructuren 3
 	- Computergebruik
@@ -70,6 +114,13 @@ Begeleidingstaken personen
 	- Programmeren
 	- Wetenschappelijk rekenen
 	- Numerieke analyse
+* Roy Oste
+	- Wiskunde IA
+	- Wiskunde IB
+	- Analyse II
+	- Financiële wiskunde
+* Charlotte Sonck
+	- Analyse I
 * Nicholas van Cleemput
 	- Algoritmen en Datastructuren II
 	- Analyse I (lesgever)
@@ -77,6 +128,11 @@ Begeleidingstaken personen
 * Annick Van Daele
 	- Programmeren I
 	- Programmeren
+* Bart Van Gasse
+	- Wiskunde I (chemie)
+	- Wiskunde II (chemie)
+	- Intelligente systemen (lesgever)
+	- Wiskunde modellering in artificiële intelligentie (lesgever)
 * Cizar Al-Malak
 	- Programmeren
 * Lynn D'eer
@@ -99,8 +155,7 @@ Begeleidingstaken personen
 * Steven Keuchel
 	- Computergebruik
 * Sarah Vluymans
-	- Redeneren, Abstraheren en Formuleren
+	- Redeneren, Abstraheren en Formuleren (gedeeltelijk)
 	- Intelligente systemen
 	- Programmeren
-
 
