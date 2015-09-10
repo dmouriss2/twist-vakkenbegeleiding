@@ -50,7 +50,7 @@ Opmerkingen
 3. Oplossingen niet verlengen Bert:
 	* Programmeren I: extra jobstudent
 	* Algoritmen en Datastructuren 2: Op het einde Gunnar de oefeningen en Nico alleen project
-	* Algoritemen en Datastructuren 1: Dieter neemt over van Bert
+	* Algoritmen en Datastructuren 1: Dieter neemt over van Bert
 	* Programmeren 2: Nico
 
 Begeleidingstaken Wiskunde
