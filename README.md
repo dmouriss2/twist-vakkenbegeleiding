@@ -8,6 +8,9 @@ Eerste semester
 	- Jan
 * Algoritmen en Datastructuren II
 	- Bert en Nico
+	- Na vertrek Bert:
+		* oefeningen: Gunnar
+		* project: Nico
 * Algoritmen en Datastructuren III
 	- Bart en Dieter
 * Computergebruik
@@ -21,31 +24,83 @@ Eerste semester
 	- woensdagmiddag (week 1-8): Niels, Dieter, Jobstudent I (Geografie)
 	- woensdagmiddag (week 9-12): Niels, Cizar, Dieter, Jobstudent I (Biotechnologie & Geografie)
 	- vrijdagmorgen (week 1-8): Annick, Niels, Dieter, Cizar (Biotechnologie)
-	- vrijdagmiddag (week 1-12): Niels, Dieter, Cizar, Nico, Jobstudent II
+	- vrijdagmiddag (week 1-12): Niels, Dieter, Cizar, Nico/Sarah, Jobstudent II
 * Programmeren I
-	- Annick, Benoit, Bert
+	- Annick, Benoit, Bert, Jobstudent III
 * Redeneren, Abstraheren en Formuleren
-	- Lynn en Sofie
+	- Lynn Sofie en Sarah (in het begin als Lynn in het buitenland is en op het einde als Sofie in zwangerschapverlof is)
 
 Tweede semester
 ----------------
 
 * Algoritmen en Datastructuren I
-	- Herman en Bert
+	- Herman en Dieter
 * Programmeren II
-	- Bart en Bert
+	- Bart en Nico????
 * Scriptingtalen
 	- Bart en Dieter
-* Vakoverschrijdend project
-	- ???
 
 Opmerkingen
 -----------
 
 1. Ik wacht nog op een reactie van Steven Keuchel voor het begeleiden van computergebruik. Normaal moet hij één vak in de bachelor begeleiden, dus dit zou geen probleem mogen zijn.
 
-2. Het inzetten van Nico op het vak programmeren van Peter kan problematisch worden aangezien ik de indruk heb dat Willy Nico liever op een wiskunde vak zou plaatsen (conform wat Glad deed). Dit zou dan Analyse II worden. Maar indien het niet zou lukken om Nico programmeren te laten begeleiden, ziet Sarah Vluymans het ook zitten om te helpen bij programmeren.
+2. Het zou ideaal zijn om Nico in te zetten voor Programmeren II. Nico is gemaild om te vragen of hij dit ziet zitten. Indien ja dan kan Pieter zonder probleem Analyse II geven en gebruiken we Sarah en Benoit (in de weken waarop Sarah RAF moet geven) voor Programmeren.
 
-3. Aangezien Annick het vakoverschrijdend project niet langer mag begeleiden, is er daar ook nog een lege plaats. Ik heb er natuurlijk geen idee van wat Annick deed voor het vak, maar is een begeleider strikt noodzakelijk?
+3. Oplossingen niet verlengen Bert:
+	* Programmeren I: extra jobstudent
+	* Algoritmen en Datastructuren 2: Op het einde Gunnar de oefeningen en Nico alleen project
+	* Algoritemen en Datastructuren 1: Dieter neemt over van Bert
+	* Programmeren 2: zie puntje 2
 
-4. Het grootste probleem is de verlenging van Bert. Ik hoopte eerst dat we hem nog konden vervangen, maar ik acht de kans daartoe klein. Normaal zou hij moeten blijven tot eind november. Voor programmeren I zou dit geen groot probleem zijn, aangezien het aantal studenten in de practica dan al sterk uitgedund is. Voor DA2 is dit een groter probleem voor de verbetering van de projecten. Het tweede semester ligt moeilijker. Bert gaf daar AD1 en Programmeren II. Daarvoor zie ik wel enkele ideeën, maar geen goede.
+Begeleidingstaken personen
+==========================
+
+* Bart Mesuere
+	- Algoritmen en Datstructuren 3
+	- Computergebruik
+	- Programmeren II
+	- Scriptingtalen
+* Dieter Mourisse
+	- Algoritmen en Datastructuren 3
+	- Programmeren
+	- Scriptingtalen
+	- Algoritmen en Datastructuren 1
+* Niels Neirynck
+	- Programmeren
+	- Wetenschappelijk rekenen
+	- Numerieke analyse
+* Nicholas van Cleemput
+	- Algoritmen en Datastructuren II
+	- Analyse I (lesgever)
+	- Programmeren II
+* Annick Van Daele
+	- Programmeren I
+	- Programmeren
+* Cizar Al-Malak
+	- Programmeren
+* Lynn D'eer
+	- Redeneren, Abstraheren en Formuleren
+	- Capita selecta in soft computing
+* Catherine Daveloose
+	- Computerproject wiskunde
+* Herman De Beukelaer
+	- Algoritmen en Datastructuren I
+	- Optimalisatie
+* Sofie De Clercq
+	- Redeneren, Abstraheren en Formuleren
+	- Capita selecta in soft computing
+* Benoit Desouter
+	- Programmeren I
+* Jan Goedgebeur
+	- Algoritmen en Datastructuren
+	- Vakoverschrijdend project (lesgever)
+	- Discrete algoritmen (lesgever)
+* Steven Keuchel
+	- Computergebruik
+* Sarah Vluymans
+	- Redeneren, Abstraheren en Formuleren
+	- Intelligente systemen
+	- Programmeren
+
+
