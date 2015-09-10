@@ -8,9 +8,6 @@ Eerste semester
 	- Jan
 * Algoritmen en Datastructuren II
 	- Bert en Nico
-	- Na vertrek Bert:
-		* oefeningen: Gunnar
-		* project: Nico
 * Algoritmen en Datastructuren III
 	- Bart en Dieter
 * Computergebruik
@@ -20,11 +17,13 @@ Eerste semester
 * Optimalisatie
 	- Herman
 * Programmeren
-	- dinsdagmorgen (week 9-12): Niels, Dieter, Cizar (Biotechnologie)
-	- woensdagmiddag (week 1-8): Niels, Dieter, Jobstudent I (Geografie)
-	- woensdagmiddag (week 9-12): Niels, Cizar, Dieter, Jobstudent I (Biotechnologie & Geografie)
-	- vrijdagmorgen (week 1-8): Annick, Niels, Dieter, Cizar (Biotechnologie)
-	- vrijdagmiddag (week 1-12): Niels, Dieter, Cizar, Nico/Sarah, Jobstudent II
+	- Annick
+	- Dieter
+	- Niels
+	- Cizar
+	- Sarah
+	- Jobstudent I
+	- Jobstudent II
 * Programmeren I
 	- Annick, Benoit, Bert, Jobstudent III
 * Redeneren, Abstraheren en Formuleren
@@ -52,6 +51,9 @@ Opmerkingen
 	* Algoritmen en Datastructuren 2: Op het einde Gunnar de oefeningen en Nico alleen project
 	* Algoritmen en Datastructuren 1: Dieter neemt over van Bert
 	* Programmeren 2: Nico
+
+4. Verdeling vakken Programmeren van Peter
+	* [a relative link](programmeren.md)
 
 Begeleidingstaken Wiskunde
 ==========================
