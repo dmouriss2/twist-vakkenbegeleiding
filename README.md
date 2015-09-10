@@ -131,13 +131,10 @@ Begeleidingstaken personen
 * Bart Van Gasse
 	- Wiskunde I (chemie)
 	- Wiskunde II (chemie)
-	- Intelligente systemen (lesgever)
-	- Wiskunde modellering in artificiële intelligentie (lesgever)
 * Cizar Al-Malak
 	- Programmeren
 * Lynn D'eer
 	- Redeneren, Abstraheren en Formuleren
-	- Capita selecta in soft computing
 * Catherine Daveloose
 	- Computerproject wiskunde
 * Herman De Beukelaer
@@ -145,17 +142,14 @@ Begeleidingstaken personen
 	- Optimalisatie
 * Sofie De Clercq
 	- Redeneren, Abstraheren en Formuleren
-	- Capita selecta in soft computing
 * Benoit Desouter
 	- Programmeren I
 * Jan Goedgebeur
 	- Algoritmen en Datastructuren
 	- Vakoverschrijdend project (lesgever)
-	- Discrete algoritmen (lesgever)
 * Steven Keuchel
 	- Computergebruik
 * Sarah Vluymans
 	- Redeneren, Abstraheren en Formuleren (gedeeltelijk)
-	- Intelligente systemen
 	- Programmeren
 
