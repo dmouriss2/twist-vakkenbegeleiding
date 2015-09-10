@@ -53,7 +53,7 @@ Opmerkingen
 	* Programmeren 2: Nico
 
 4. Verdeling vakken Programmeren van Peter
-	* [a relative link](programmeren.md)
+	* [uurregeling](programmeren.md)
 
 Begeleidingstaken Wiskunde
 ==========================
