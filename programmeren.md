@@ -12,7 +12,7 @@ Uren Programmeren
 |Vrijdag| 1-8 | 10.00-13.00 | Biochemie & Biotechnologie | Turing, S9 | Niels |
 |Vrijdag| 1-12| 14.30-17.30 | Fysica | Hopper, S5 | Dieter, Jobstudent 2 |
 |Vrijdag| 1-12| 14.30-17.30 | Chemie | Zuse, S9 | Niels, Cizar |
-|Vrijdag| 1-12 | 14.30-17.30 | Geologie | Turing, S9 | ? |
+|Vrijdag| 1-12 | 14.30-17.30 | Geologie | Turing, S9 | Sarah |
 
 Opmerkingen
 ------------
