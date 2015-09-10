@@ -4,7 +4,7 @@ Begeleidingstaken Informatica
 Eerste semester
 ----------------
 
-* Algoritmen en Datastructuren (wiskunde)
+* Algoritmen en Datastructuren (wiskund)
 	- Jan
 * Algoritmen en Datastructuren II
 	- Bert en Nico
